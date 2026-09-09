@@ -11,7 +11,7 @@ object-oriented programming principles, and user interface design.
  Easy-to-use visual interface.
 
 ## Food Details
- Shows:  
+- Shows:  
 o Item name 
 o Description 
 o Category 
