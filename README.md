@@ -6,10 +6,8 @@ This project was created to practice Windows Forms development, event handling,
 object-oriented programming principles, and user interface design.
 
 ## Menu Display
-- Displays multiple food items.
-   
-- Includes images, names, and prices.
-  
+- Displays multiple food items.     
+- Includes images, names, and prices.    
 - Easy-to-use visual interface.
 
 ## Food Details
@@ -27,69 +25,49 @@ Add To Cart:
 
 ## Order Summary: 
 -Displays:  
-o Order number 
-
-o Total cost 
-
-o Discount information
+o Order number  
+o Total cost   
+o Discount information  
 
 ## Discount System 
 -Customers receive a 10% discount when purchasing 5 or more food items. 
 
 ## Clear Order 
-- Removes current order information.
-  
+- Removes current order information.  
 -Resets the shopping cart. 
 
 ## Technologies Used 
-- C#
-  
-- .NET Framework
-  
-- Windows Forms 
-
+- C#    
+- .NET Framework  
+- Windows Forms  
 - Visual Studio 2026
 
 # System Design: 
 ## Input: 
-- Food selection
-  
+- Food selection  
 - Item quantity 
 ## Processing: 
-- Calculate total cost
-  
-- Apply discounts
-  
+- Calculate total cost    
+- Apply discounts    
 - Generate order information 
 ## Output: 
-- Food details
-  
-- Order summary
-  
+- Food details   
+- Order summary    
 - Final total cost
 
 ## Future Improvements: 
-- Customer Login System
-  
-- Database Integration (SQL Server)
-  
-- Receipt Generation
-  
-- Payment Processing Module
-   
-- Admin Dashboard
-  
-- Order History
-  
+- Customer Login System  
+- Database Integration (SQL Server)    
+- Receipt Generation    
+- Payment Processing Module    
+- Admin Dashboard  
+- Order History   
 - Inventory Management 
 
 # Author: 
-Thabane Maphalala 
-
-ICT Application Development Student 
-
-Aspiring Software Developer 
-
+Thabane Maphalala  
+ICT Application Development Student  
+Aspiring Software Developer  
 Durban University of Technology
 
 
