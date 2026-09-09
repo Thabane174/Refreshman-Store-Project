@@ -24,7 +24,7 @@ Add To Cart:
 - Updates the order summary. 
 
 ## Order Summary: 
--Displays:  
+- Displays:  
 o Order number  
 o Total cost   
 o Discount information  
@@ -34,7 +34,7 @@ o Discount information
 
 ## Clear Order 
 - Removes current order information.  
--Resets the shopping cart. 
+-Resets the shopping cart.  
 
 ## Technologies Used 
 - C#    
@@ -44,8 +44,8 @@ o Discount information
 
 # System Design: 
 ## Input: 
-- Food selection  
-- Item quantity 
+- Food selection
+- - Item quantity 
 ## Processing: 
 - Calculate total cost    
 - Apply discounts    
@@ -64,7 +64,7 @@ o Discount information
 - Order History   
 - Inventory Management 
 
-# Author: 
+## Author: 
 Thabane Maphalala  
 ICT Application Development Student  
 Aspiring Software Developer  
