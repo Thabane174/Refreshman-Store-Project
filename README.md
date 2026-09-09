@@ -30,11 +30,11 @@ o Total cost
 o Discount information  
 
 ## Discount System 
--Customers receive a 10% discount when purchasing 5 or more food items. 
+- Customers receive a 10% discount when purchasing 5 or more food items. 
 
 ## Clear Order 
 - Removes current order information.  
--Resets the shopping cart.  
+- Resets the shopping cart.  
 
 ## Technologies Used 
 - C#    
@@ -44,8 +44,8 @@ o Discount information
 
 # System Design: 
 ## Input: 
-- Food selection
-- - Item quantity 
+- Food selection  
+- Item quantity  
 ## Processing: 
 - Calculate total cost    
 - Apply discounts    
