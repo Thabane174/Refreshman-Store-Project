@@ -11,11 +11,11 @@ object-oriented programming principles, and user interface design.
 - Easy-to-use visual interface.
 
 ## Food Details
-- Shows:  
-o Item name 
-o Description 
-o Category 
-o Price 
+- Shows:   
+o Item name  
+o Description  
+o Category  
+o Price  
 
 ## Quantity Selection: 
 - Users can choose the number of items they want. 
